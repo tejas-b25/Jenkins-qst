@@ -50,4 +50,4 @@ networks:
   mynetwork:
  
 volumes:
-  mysql-data:
+  mysql-data: {}
