@@ -1,3 +1,4 @@
+version '3.8'
  services:
   mysql-service:
     image: mysql:8.0
@@ -50,4 +51,4 @@ networks:
   mynetwork:
  
 volumes:
-  mysql-data: {}
+  mysql-data:
